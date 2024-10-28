@@ -122,3 +122,7 @@ For more information see [Levels.fyi](https://www.levels.fyi/t/software-engineer
 | NRI          | [Opportunities](https://nri-anz.com/careers/#opportunities)                                                                                                                                                  |
 | DXC          | [Software Applications Jobs](https://careers.dxc.com/global/en/c/software-applications-jobs)                                                                                                                 |
 | Telstra      | [Telstra Careers](https://telstra.wd3.myworkdayjobs.com/Telstra_Careers?jobFamilyGroup=c9e2230c29a501d616f983a2eb055f31)                                                                                     |
+
+
+## Issues or Feedback
+Please open an [issue](https://github.com/xdaybreakerx/australia-tech-jobs/issues), and I'll fix asap ( ╥﹏╥) ノシ 
