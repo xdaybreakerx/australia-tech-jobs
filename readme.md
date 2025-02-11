@@ -123,6 +123,15 @@ For more information see [Levels.fyi](https://www.levels.fyi/t/software-engineer
 | DXC          | [Software Applications Jobs](https://careers.dxc.com/global/en/c/software-applications-jobs)                                                                                                                 |
 | Telstra      | [Telstra Careers](https://telstra.wd3.myworkdayjobs.com/Telstra_Careers?jobFamilyGroup=c9e2230c29a501d616f983a2eb055f31)                                                                                     |
 
+## VC / Startups
+> These are job boards for the companies represented by the major tech VCs in Australia
+
+| Company      | Career Page Link                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Blackbird    | [Careers at Blackbird](https://www.blackbird.vc/careers-at-blackbird#careers-collection)                                                                                |
+| Square Peg   | [Jobs at Square Peg](https://squarepeg.getro.com/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJBdXN0cmFsaWEiXSwiam9iX2Z1bmN0aW9ucyI6WyJTb2Z0d2FyZSUyMEVuZ2luZWVyaW5nIl19) |
+| AirTree      | [Jobs at AirTree](https://jobs.airtree.vc/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJBdXN0cmFsaWEiXSwiam9iX2Z1bmN0aW9ucyI6WyJTb2Z0d2FyZSUyMEVuZ2luZWVyaW5nIl19)        |
+| OneVentures  | [Jobs at OneVentures](https://jobs.one-ventures.com.au/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJBdXN0cmFsaWEiXSwiam9iX2Z1bmN0aW9ucyI6WyJTb2Z0d2FyZSUyMEVuZ2luZWVyaW5nIl19) |
 
 ## Issues or Feedback
 Please open an [issue](https://github.com/xdaybreakerx/australia-tech-jobs/issues), and I'll fix asap ( ╥﹏╥) ノシ 
